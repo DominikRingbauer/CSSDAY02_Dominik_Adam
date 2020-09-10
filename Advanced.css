@@ -1,0 +1,22 @@
+img {
+	height: 100px;
+	width: 150px;
+	position: relative;
+	left: 40%;
+}
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+	border: 3px;
+background-color: gray;
+display:block;
+text-align:center;
+width:80px; 
+text-decoration:none; 
+}
